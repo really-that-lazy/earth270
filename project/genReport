@@ -1,0 +1,7 @@
+#!/bin/bash
+
+pdflatex fml.tex
+mv fml.pdf report.pdf
+
+
+exit 0
